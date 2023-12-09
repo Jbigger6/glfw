@@ -1,6 +1,5 @@
 c:\dev\gameengine\engine\vendor\glfw\bin\debug-windows-x86_64\glfw\glfw.pdb
 c:\dev\gameengine\engine\vendor\glfw\bin\debug-windows-x86_64\glfw\glfw.idb
-c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\window.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\win32_window.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\win32_time.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\win32_thread.obj
@@ -14,12 +13,14 @@ c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\platform.
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\osmesa_context.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\null_window.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\null_monitor.obj
+c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\null_joystick.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\null_init.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\monitor.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\input.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\init.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\egl_context.obj
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\context.obj
+c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\window.obj
 c:\dev\gameengine\engine\vendor\glfw\bin\debug-windows-x86_64\glfw\glfw.lib
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\glfw.tlog\cl.command.1.tlog
 c:\dev\gameengine\engine\vendor\glfw\bin-int\debug-windows-x86_64\glfw\glfw.tlog\cl.items.tlog
